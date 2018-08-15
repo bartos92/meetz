@@ -1,0 +1,2 @@
+require("fontawesome");
+require("bootstrap");

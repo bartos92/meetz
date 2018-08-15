@@ -9,13 +9,24 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.18.0",
     "bootstrap": "^4.1.2",
+    "date-fns": "^1.29.0",
     "fontawesome": "^4.7.2",
     "gulp": "^3.9.1",
     "jquery": "^3.3.1",
     "lodash": "^4.17.10",
+    "moment": "^2.22.2",
+    "moment-timezone": "^0.5.21",
+    "popper.js": "^1.14.3",
     "vue": "^2.5.16",
-    "vue-loader": "^15.2.6",
-    "vue-template-compiler": "^2.5.16"
+    "vue-axios": "^2.1.2",
+    "vue-loader": "14.2.2",
+    "vue-router": "^3.0.1",
+    "vue-template-compiler": "^2.5.16",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "@symfony/webpack-encore": "^0.20.1"
   }
 }
