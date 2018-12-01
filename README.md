@@ -1,5 +1,5 @@
 # meetz
-*Symfony backend
-*VueJS frontend
-*Stateless sessions
-*Dockerized
+* Symfony backend
+* VueJS frontend
+* Stateless sessions
+* Dockerized
